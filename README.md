@@ -2,6 +2,7 @@
 
 💻 CS Student | Web Developer | Tech Enthusiast  
 🌌 Into **space physics**, 🎮 gaming & anime  
+
 ---
 
 ### 🛠️ What I Do
