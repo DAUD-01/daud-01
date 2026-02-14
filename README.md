@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Daud
+# 👋 Hey, I'm Daud
 
 💻 CS Student | Web Developer | Tech Enthusiast  
 🌌 Into **space physics**, 🎮 gaming & anime  
