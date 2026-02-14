@@ -31,7 +31,3 @@ I enjoy turning ideas into real code and experimenting with different web design
 
 ✨ **Fun Fact:** I love thinking about black holes, wormholes, and time dilation in space.  
 
----
-
-### ⚡ GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Daud-01&show_icons=true&count_private=true&theme=radical
