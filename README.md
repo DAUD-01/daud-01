@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Daud
 
-<!--
-**DAUD-01/daud-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CS Student | Web Developer | Tech Enthusiast  
+🌌 Into **space physics**, 🎮 gaming & anime  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+I build interactive websites and small projects using modern web technologies.  
+I enjoy turning ideas into real code and experimenting with different web designs and features.  
+
+---
+
+### 💡 Skills
+**Languages & Web:** HTML, CSS, JavaScript, C++  
+**Tools & Platforms:** Git, VS Code  
+**What I Can Do:**  
+- Build responsive websites from scratch  
+- Implement interactive UI/UX elements with JS  
+- Write algorithms and small programs in C++  
+- Manage projects using Git  
+
+**Currently Learning:** JavaScript (advanced) & Python  
+
+---
+
+### 📫 Contact Me
+📧 Email: dawoodsardar252@gmail.com 
+
+---
+
+✨ **Fun Fact:** I love thinking about black holes, wormholes, and time dilation in space.  
+
+---
+
+### ⚡ GitHub Stats
+![Daud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
