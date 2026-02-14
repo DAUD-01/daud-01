@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Daud
+## 👋 Hey, I'm Daud
 
 💻 CS Student | Web Developer | Tech Enthusiast  
 🌌 Into **space physics**, 🎮 gaming & anime  
@@ -7,6 +7,7 @@
 ### 🛠️ What I Do
 I build interactive websites and small projects using modern web technologies.  
 I enjoy turning ideas into real code and experimenting with different web designs and features.  
+
 ---
 
 ### 💡 Skills
@@ -19,10 +20,12 @@ I enjoy turning ideas into real code and experimenting with different web design
 - Manage projects using Git  
 
 **Currently Learning:** JavaScript (advanced) & Python  
+
 ---
 
 ### 📫 Contact Me
 📧 Email: dawoodsardar252@gmail.com 
+
 ---
 
 ✨ **Fun Fact:** I love thinking about black holes, wormholes, and time dilation in space.  
