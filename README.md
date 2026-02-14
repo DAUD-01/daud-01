@@ -34,4 +34,4 @@ I enjoy turning ideas into real code and experimenting with different web design
 ---
 
 ### ⚡ GitHub Stats
-![Daud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Daud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daud-01&show_icons=true&theme=radical)
