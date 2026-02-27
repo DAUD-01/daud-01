@@ -27,7 +27,6 @@ I enjoy turning ideas into real code and experimenting with different web design
 ### 📫 Contact Me
 📧 Email: dawoodsardar252@gmail.com 
 
----
 
-✨ **Fun Fact:** I love thinking about black holes, wormholes, and time dilation in space.  
+
 
