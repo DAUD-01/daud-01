@@ -12,7 +12,7 @@ I enjoy turning ideas into real code and experimenting with different web design
 ---
 
 ### 💡 Skills
-**Languages & Web:** HTML, CSS, JavaScript, C++  
+**Languages & Web:** HTML, CSS, Vanilla JavaScript, C++  
 **Tools & Platforms:** Git, VS Code  
 **What I Can Do:**  
 - Build responsive websites from scratch  
@@ -20,7 +20,7 @@ I enjoy turning ideas into real code and experimenting with different web design
 - Write algorithms and small programs in C++  
 - Manage projects using Git  
 
-**Currently Learning:** JavaScript (advanced) & Java and Backend  
+**Currently Learning:** Java and Backend (Node, Express, MongoDB)
 
 ---
 
