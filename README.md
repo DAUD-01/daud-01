@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Daud
 
-💻 CS Student | Web Developer | Tech Enthusiast  
+💻 CS Student | Web Developer | MERN Stack | Tech Enthusiast  
 🌌 Into **space physics**, 🎮 gaming & anime  
 
 ---
