@@ -35,5 +35,6 @@ When not coding:
 ## 📫 Reach Me
 
 **Email:** dawoodsardar252@gmail.com
+
 **LinkedIn:** [Dawood Sardar](https://www.linkedin.com/in/daud-S)
 
