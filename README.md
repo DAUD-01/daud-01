@@ -1,33 +1,36 @@
 # 👋 Hey, I'm Daud
 
-💻 CS Student | Web Developer | MERN Stack | Tech Enthusiast  
-🌌 Into **space physics**, 🎮 gaming & anime  
+**CS Student & Aspiring Full-Stack Developer**
+
+I'm a CS student and web developer. I've built a variety of web projects and I'm currently leaning into the MERN stack, with a specific focus on mastering the backend right now. Always working on something new and keeping the code clean.
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+HTML, CSS, JavaScript (ES6+), C++
+
+**Backend & Tools:**  
+Node.js, Express, Socket.io, Git, VS Code
+
+**Learning Now:**  
+Java, MongoDB
+
+**On the Horizon:**  
+React, Tailwind CSS, TypeScript
 
 ---
 
-### 🛠️ What I Do
-I build interactive websites and small projects using modern web technologies.  
-I enjoy turning ideas into real code and experimenting with different web designs and features.  
+## 🌌 Beyond the Code
+
+When not coding:
+
+- Watching anime  
+- PC gaming  
+- Exploring space physics (concept-level curiosity)
 
 ---
 
-### 💡 Skills
-**Languages & Web:** HTML, CSS, Vanilla JavaScript, C++  
-**Tools & Platforms:** Git, VS Code  
-**What I Can Do:**  
-- Build responsive websites from scratch  
-- Implement interactive UI/UX elements with JS  
-- Write algorithms and small programs in C++  
-- Manage projects using Git  
+## 📫 Reach Me
 
-**Currently Learning:** Java and Backend (Node, Express, MongoDB)
-
----
-
-### 📫 Contact Me
-📧 Email: dawoodsardar252@gmail.com 
-
-
-
-
-
+📧 **Email:** dawoodsardar252@gmail.com
