@@ -2,7 +2,8 @@
 
 **CS Student & Aspiring Full-Stack Developer**
 
-I'm a CS student and web developer. I've built a variety of web projects and I'm currently leaning into the MERN stack, with a specific focus on mastering the backend right now. Always working on something new and keeping the code clean.
+I'm a CS student and web developer. I've built a variety of web projects and I'm currently leaning into the **MERN stack**, with a specific focus on mastering the backend right now. Always working on something new and keeping the code clean.
+
 ---
 
 ## 🛠️ Tech Stack
