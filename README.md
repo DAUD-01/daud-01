@@ -25,15 +25,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Linux • Notion �
 
 ---
 
-## 🌌 Beyond the Code
-
-* Watching anime
-* PC gaming
-* Exploring space and physics
-
----
-
 ## 📫 Reach Me
 
-**Email:** [dawoodsardar252@gmail.com](mailto:dawoodsardar252@gmail.com)
+**Email:** [dawoodsardar252@gmail.com](mailto:dawoodsardar252@gmail.com)  
 **LinkedIn:** [Dawood Sardar](https://www.linkedin.com/in/daud-S)
